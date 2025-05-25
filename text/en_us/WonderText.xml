@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_WONDER_LARABANGA_MOSQUE_NAME">
+			<Text>Larabanga Mosque</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_LARABANGA_MOSQUE_DESCRIPTION">
+			<Text>{LOC_WONDER_LARABANGA_MOSQUE_TOOLTIP}</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_LARABANGA_MOSQUE_TOOLTIP">
+			<Text>Has a Great Work slot and generates a free Codex. Additional Happiness for each Great Work in this Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_LARABANGA_MOSQUE">
+			<Text>Bury me close to the mosque and that after three days, the baobab which would shoot up on his grave was to be preserved from generation to generation. The baobab tree next to the mosque today is reputed to mark the site of Ayuba's grave. The townsfolk of Larabanga supposedly depend on the leaves and stem of this baobab tree for healing of ailments.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_LARABANGA_MOSQUE">
+			<Text>Ayuba</Text>
+		</Row>
+
+    </EnglishText>
+</Database>

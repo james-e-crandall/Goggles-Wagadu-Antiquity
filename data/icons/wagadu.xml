@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Database>
+    <IconDefinitions>
+        <!-- Civ Symbol-->
+        <Row>
+            <ID>CIVILIZATION_WAGADU</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+			<ID>ICON_CIVILIZATION_WAGADU</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu</Path>
+		</Row>
+        <!-- Loadscreen -->
+		<Row>
+			<ID>CIVILIZATION_WAGADU</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_WAGADU</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+        <!-- Culture -->
+        <Row>
+            <ID>cult_wagadu</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/cult_wagadu.png</Path>
+        </Row> 
+        <!-- wonder -->
+		<Row>
+			<ID>WONDER_LARABANGA_MOSQUE</ID>
+			<Path>fs://game/goggles_civ_germania/icons/wondericon_larabanga_mosque.png</Path>
+		</Row>
+
+        <!-- UU AND UI -->
+        <Row>
+            <ID>UNIT_SAHEL_CAVALRY</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_sahel_cavalry.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+        <Row>
+            <ID>UNIT_SAHEL_CAVALRY_2</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_sahel_cavalry.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+    </IconDefinitions>
+</Database>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<AiComponents>
+	</AiComponents>
+	<AiDefinitions>
+	</AiDefinitions>
+	<OpTeamRequirements>
+	</OpTeamRequirements>
+	<PseudoYields>
+	</PseudoYields>
+	<AiListTypes>
+		<!-- Wagadu -->
+		<Row ListType="Wagadu Unit Biases"/>
+		<Row ListType="Wagadu Government Bias"/>
+		<Row ListType="Wagadu Constructibles Biases" />
+		<Row ListType="Wagadu Budget Biases" />
+		<Row ListType="Wagadu PseudoYield Biases" />
+		<Row ListType="Wagadu Tag Biases"/>
+	</AiListTypes>
+	<AiLists>
+		<!-- Wagadu -->
+		<Row ListType="Wagadu Unit Biases" LeaderType="TRAIT_WAGADU" System="UnitBiases"/>
+		<Row ListType="Wagadu Government Bias" LeaderType="TRAIT_WAGADU" System="GovernmentBiases"/>
+		<Row ListType="Wagadu Constructibles Biases" LeaderType="TRAIT_WAGADU" System="ConstructibleBiases" />	
+		<Row ListType="Wagadu Budget Biases" LeaderType="TRAIT_WAGADU" System="AiBudgetBiases"/>	
+		<Row ListType="Wagadu PseudoYield Biases" LeaderType="TRAIT_WAGADU" System="PseudoYieldBiases"/>	
+		<Row ListType="Wagadu Tag Biases" LeaderType="TRAIT_WAGADU" System="TagBiases"/>
+	</AiLists>
+	<AiFavoredItems>
+		<!-- Wagadu -->
+		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_DOME_KA_YOROBA" Value="200" />
+		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_YIRI_SENUMAN" Value="200" />
+		<Row ListType="Wagadu Constructibles Biases" Item="WONDER_LARABANGA_MOSQUE" Value="50"/>
+		<Row ListType="Wagadu Unit Biases" Item="UNIT_SAHEL_CAVALRY" Value="50"/>
+		<Row ListType="Wagadu Unit Biases" Item="UNIT_SAHEL_CAVALRY_2" Value="50"/>
+
+	</AiFavoredItems>
+	<!-- City Strategies -->
+	<Strategies>
+	</Strategies>
+	<StrategyConditions>
+	</StrategyConditions>
+	<Strategy_Priorities>
+	</Strategy_Priorities>
+	<AiListTypes>
+	</AiListTypes>
+	<AiLists>
+	</AiLists>
+	<AiFavoredItems>
+	</AiFavoredItems>
+</Database>

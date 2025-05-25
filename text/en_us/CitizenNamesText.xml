@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--WAGADU-->
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_1">
+			<Text>Benkos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_2">
+			<Text>Diata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_3">
+			<Text>Karamoko </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_4">
+			<Text>Lawalo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_5">
+			<Text>N’gewo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_6">
+			<Text>Pakuteh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_7">
+			<Text>Siendou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_8">
+			<Text>Yenpape</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_9">
+			<Text>Younoussi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_MALE_10">
+			<Text>Zanga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_1">
+			<Text>Dujonou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_2">
+			<Text>Famara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_3">
+			<Text>Fanta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_4">
+			<Text>Keleya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_5">
+			<Text>Mamadi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_6">
+			<Text>Mawatta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_7">
+			<Text>Meleke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_8">
+			<Text>Nfamara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_9">
+			<Text>Rohi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_WAGADU_FEMALE_10">
+			<Text>Yalany</Text>
+		</Row>
+	</EnglishText>
+</Database>

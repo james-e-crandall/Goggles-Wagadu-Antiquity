@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_TREE_CIVICS_AQ_WAGADU_NAME">
+			<Text>Wagadu Civics</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME">
+			<Text>Ghana </Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_DESCRIPTION">
+			<Text>Unlocks the Dome Complex Unique Building. Unlocks the Sacred Grove Unique Building. Increased Settlement Capacity.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_2_DESCRIPTION">
+			<Text>Additional Gold on Influence Buildings.</Text>
+		</Row>
+
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_WAGADU_MAZALIM_NAME">
+			<Text>Mazalim</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WAGADU_MAZALIM_DESCRIPTION">
+			<Text>Additional Influence on the Palace for each adjacent Building.</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE">
+			<Text>Annallja Tu Bari was the daughter of a prince.  Everyone who saw her was impressed with her tremendous beauty and wisdom.  Many noble men sought to marry her, but she always demanded that each would do something that they would not be willing to do.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE_AUTHOR">
+			<Text>Samba Gana</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME">
+			<Text>Dinar</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVIC_AQ_WAGADU_DINAR_DESCRIPTION">
+			<Text>Increased [icon:YIELD_GOLD] Gold on Rural Districts in Cities during a golden age.</Text>
+		</Row>
+
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_NAME">
+			<Text>Salt Tax</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_DESCRIPTION">
+			<Text>Increased Trade Route Capacity. Trade routes to and from your Settlements have additional range (as if Trading Post Towns.)</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE">
+			<Text>Bringing wealth to family</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE_AUTHOR">
+			<Text>Child's Name</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME">
+			<Text>Laws of the Ten Kings</Text>
+		</Row>
+
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_DESCRIPTION">
+			<Text>Additional Influence on Gold Buildings.</Text>
+		</Row>
+
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_NAME">
+			<Text>Kaya Maghan</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_DESCRIPTION">
+			<Text> +5% Gold in the Capital for each City State you are Suzerain of.</Text>
+		</Row>
+		
+	</EnglishText>
+</Database>

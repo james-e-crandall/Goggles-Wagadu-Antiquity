@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_CIVILIZATION_WAGADU_NAME">
+			<Text>Wagadu</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_WAGADU_FULLNAME">
+			<Text>Ghana Empire</Text>
+		</Row>
+
+		<Row Tag="LOC_MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_WAGADU_DESCRIPTION">
+			<Text>Wagadu Antiquity Age Civilization</Text>
+		</Row>
+
+		<!--Civilization Adjectives-->
+		<Row Tag="LOC_CIVILIZATION_WAGADU_ADJECTIVE">
+			<Text>Wagadu</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+
+		<!-- Ability-->
+		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_NAME">
+			<Text>Kaya Maghan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION">
+			<Text>[LIST][LI]Additional [B][icon:YIELD_GOLD] Gold[/B] on all [B]Resources[/B]. [B]Resources[/B] Imported from Wagadu keep this additional [B][icon:YIELD_GOLD] Gold[/B].[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Great Stele[/B].[/LIST]</Text>
+		</Row>
+	</EnglishText>
+</Database>
