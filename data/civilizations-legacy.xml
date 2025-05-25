@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_WAGADU" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_WAGADU_2" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_WAGADU" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_WAGADU" Name="LOC_CIVILIZATION_WAGADU_NAME" FullName="LOC_CIVILIZATION_WAGADU_FULLNAME" Adjective="LOC_CIVILIZATION_WAGADU_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_WAGADU" TraitType="TRAIT_WAGADU"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_WAGADU" InternalOnly="true"/>
+		<Row TraitType="TRAIT_WAGADU_2" InternalOnly="true"/>
+	</Traits>
+	<LegacyLeaderCivPriorities>
+		<Row Leader="LEADER_AMINA" CivilizationType="CIVILIZATION_WAGADU"/>
+		<Row Leader="LEADER_HARRIET_TUBMAN" CivilizationType="CIVILIZATION_WAGADU"/>
+		<Row Leader="LEADER_IBN_BATTUTA" CivilizationType="CIVILIZATION_WAGADU"/>
+	</LegacyLeaderCivPriorities>
+</Database>

@@ -6,12 +6,6 @@
 		<Description>LOC_MODULE_WAGADU_DESCRIPTION</Description>
 		<Authors>LOC_AUTHORS_JEC</Authors>
 		<Package>DLC</Package>
-	<!-- Added automatically by CivMods: Do not edit -->
-	<CivModsCategory>New Civilizations</CivModsCategory>
-	<CivModsInternalVersionId>0140wp7pxxv73d1</CivModsInternalVersionId>
-	<CivModsURL>https://forums.civfanatics.com/resources/goggless-wagadu-antiquity.32163/</CivModsURL>
-	<CivModsVersion>1.1</CivModsVersion>
-	<CivModsVersionDate>2025-05-15T01:52:38.000Z</CivModsVersionDate>
 	</Properties>
 	<Dependencies>
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
@@ -76,8 +70,9 @@
 					<Item>icons/civ_sym_wagadu</Item>
                     <Item>icons/civ_sym_wagadu.png</Item>
 					<Item>icons/cult_wagadu.png</Item>
-					<Item>icons/unitflag_war_chariot.png</Item>
-					<Item>icons/wondericon_temple_of_poseidon.png</Item>
+					<Item>icons/unitflag_sahel_cavalry.png</Item>
+					<Item>icons/unitflag_tribute_collector.png</Item>
+					<Item>icons/wondericon_larabanga_mosque.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/wagadu.xml</Item>
@@ -173,8 +168,9 @@
 					<Item>icons/civ_sym_wagadu</Item>
                     <Item>icons/civ_sym_wagadu.png</Item>
 					<Item>icons/cult_wagadu.png</Item>
-					<Item>icons/unitflag_war_chariot.png</Item>
-					<Item>icons/wondericon_temple_of_poseidon.png</Item>
+					<Item>icons/unitflag_sahel_cavalry.png</Item>
+					<Item>icons/unitflag_tribute_collector.png</Item>
+					<Item>icons/wondericon_larabanga_mosque.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/wagadu.xml</Item>
