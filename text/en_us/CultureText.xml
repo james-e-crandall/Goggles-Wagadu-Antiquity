@@ -76,5 +76,15 @@
 			<Text> +5% Gold in the Capital for each City State you are Suzerain of.</Text>
 		</Row>
 		
+		<!-- NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_QUOTE">
+			<Text>Bringing wealth to family</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_QUOTE_AUTHOR">
+			<Text>Child's Name</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_NAME">
+			<Text>Kaya Maghan (king of gold)</Text>
+		</Row>
 	</EnglishText>
 </Database>

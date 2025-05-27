@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+    <VisualRemaps>
+    <!-- subei -->
+        <Row>
+            <ID>REMAP_UNIT_SAHEL_CAVALRY</ID>
+            <DisplayName>LOC_UNIT_SAHEL_CAVALRY_NAME</DisplayName>
+            <Kind>UNIT</Kind>
+            <From>UNIT_SAHEL_CAVALRY</From>
+            <To>UNIT_HORSEMAN</To>
+        </Row>
+        <Row>
+            <ID>REMAP_UNIT_SAHEL_CAVALRY_2</ID>
+            <DisplayName>LOC_UNIT_SAHEL_CAVALRY_2_NAME</DisplayName>
+            <Kind>UNIT</Kind>
+            <From>UNIT_SAHEL_CAVALRY_2</From>
+            <To>UNIT_HORSEMAN</To>
+        </Row>
+        
+    </VisualRemaps>
+</Database>

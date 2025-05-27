@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Civ Unique Military -->
+		<Row Type="UNIT_SAHEL_CAVALRY" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Kind="KIND_UNIT"/>
+		<!-- Unique Abilities -->
+		<Row Type="ABILITY_SAHEL_CAVALRY_CHECK_FOR_BIOME" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SAHEL_CAVALRY_IGNORE_ZOC" Kind="KIND_ABILITY"/>
+	</Types>
+	<Units>
+		<Row UnitType="UNIT_SAHEL_CAVALRY" Name="LOC_UNIT_SAHEL_CAVALRY_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_DESCRIPTION" Tier="2" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_WAGADU"/>
+		<Row UnitType="UNIT_SAHEL_CAVALRY_2" Name="LOC_UNIT_SAHEL_CAVALRY_2_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_2_DESCRIPTION" Tier="3" Maintenance="3" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_WAGADU"/>
+	</Units>
+	<Unit_Stats>
+		<Row UnitType="UNIT_SAHEL_CAVALRY" Combat="30"/>
+		<Row UnitType="UNIT_SAHEL_CAVALRY_2" Combat="35"/>
+	</Unit_Stats>
+	<Unit_Costs>
+		<!-- Civ Unique Military -->
+		<Row UnitType="UNIT_SAHEL_CAVALRY" YieldType="YIELD_PRODUCTION" Cost="80"/>
+		<Row UnitType="UNIT_SAHEL_CAVALRY_2" YieldType="YIELD_PRODUCTION" Cost="120"/>
+	</Unit_Costs>
+	<UnitUpgrades>
+		<!-- Civ Unique Military -->
+		<Row Unit="UNIT_SAHEL_CAVALRY" UpgradeUnit="UNIT_SAHEL_CAVALRY_2"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<!-- Civ Unique Military -->
+		<Row CivUniqueUnitType="UNIT_SAHEL_CAVALRY" ReplacesUnitType="UNIT_CHARIOT"/>
+		<Row CivUniqueUnitType="UNIT_SAHEL_CAVALRY_2" ReplacesUnitType="UNIT_HORSEMAN"/>
+		<!-- Civ Unique Civilian -->
+	</UnitReplaces>
+	<Unit_TransitionRetains>
+	</Unit_TransitionRetains>
+	<AiUnitEfficiencyBonuses>
+	</AiUnitEfficiencyBonuses>
+	<Tags>
+		<!-- Civ Unique Military -->
+		<Row Tag="UNIT_CLASS_SAHEL_CAVALRY" Category="UNIT_CLASS"/>
+	</Tags>
+	<TypeTags>
+		<!-- Civ Unique Military -->
+		<Row Type="UNIT_SAHEL_CAVALRY" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_SAHEL_CAVALRY" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_SAHEL_CAVALRY" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_SAHEL_CAVALRY" Tag="UNIT_CLASS_SAHEL_CAVALRY"/>
+
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<Row Type="UNIT_SAHEL_CAVALRY_2" Tag="UNIT_CLASS_SAHEL_CAVALRY"/>
+	</TypeTags>
+	<UnitClass_Abilities>
+		<Row UnitAbilityType="ABILITY_SAHEL_CAVALRY" UnitClassType="ABILITY_SAHEL_CAVALRY_CHECK_FOR_BIOME"/>
+	</UnitClass_Abilities>
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SAHEL_CAVALRY_CHECK_FOR_BIOME" Name="LOC_ABILITY_SAHEL_CHECK_FOR_BIOME_NAME" Description="LOC_ABILITY_AMINA_DESERT_MELEE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SAHEL_CAVALRY_IGNORE_ZOC" Name="LOC_ABILITY_SAHEL_CHECK_FOR_BIOME_NAME" Description="LOC_ABILITY_AMINA_DESERT_MELEE_DESCRIPTION"/>
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_SAHEL_CAVALRY_CHECK_FOR_BIOME" ModifierId="SAHEL_CAVALRY_MOD_CHECK_FOR_BIOME"/>
+		<Row UnitAbilityType="ABILITY_SAHEL_CAVALRY_IGNORE_ZOC" ModifierId="SAHEL_CAVALRY_MOD_IGNORE_ZOC"/>
+	</UnitAbilityModifiers>
+	<ChargedUnitAbilities>
+	</ChargedUnitAbilities>
+	<Unit_Advisories>
+		<!-- Civ Unique Military -->
+		<Row UnitType="UNIT_SAHEL_CAVALRY" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_SAHEL_CAVALRY_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+	</Unit_Advisories>
+</Database>

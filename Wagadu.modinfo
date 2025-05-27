@@ -129,6 +129,9 @@
 					<Item>data/units.xml</Item>
 					<Item>data/progression-trees-tech-common.xml</Item>
 					<Item>data/greatworks.xml</Item>
+					<Item>data/wonders-no-persist.xml</Item>
+					<Item>data/wonders-no-persist-gameeffects.xml</Item>
+					
 				</UpdateDatabase>
 				<UpdateText>
 					<Item>text/en_us/LoadingText.xml</Item>

@@ -63,19 +63,22 @@
 		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldType="YIELD_HAPPINESS" Amount="2"/>
 	</Constructible_Maintenances>
 	<Constructible_Adjacencies>
-		Influence Adjacency for Quarters and Wonders
 		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldChangeId="DomeKaYorQuarterDiplomacy"/>
 		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldChangeId="DomeKaYorWonderDiplomacy"/>
-
 		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="MountainCulture"/>
 		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="NaturalWonderCulture"/>
 		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="WonderCulture"/>
 		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="YiriSenumanQuarterCulture"/>
+
+		<Row ConstructibleType="BUILDING_PALACE" YieldChangeId="WagaduMazlimPalaceInfluence" RequiresActivation="true" />
 	</Constructible_Adjacencies>
 	<Adjacency_YieldChanges>
 		<Row ID="DomeKaYorQuarterDiplomacy" YieldType="YIELD_DIPLOMACY" YieldChange="1" TilesRequired="1" AdjacentQuarter="true"/>
 		<Row ID="DomeKaYorWonderDiplomacy" YieldType="YIELD_DIPLOMACY" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_WONDER"/>
 		<Row ID="YiriSenumanQuarterCulture" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentQuarter="true"/>
+
+		<!-- TRADITION_WAGADU_MAZALIM -->
+		<Row ID="WagaduMazlimPalaceInfluence" YieldType="YIELD_DIPLOMACY" YieldChange="1" TilesRequired="1" AdjacentQuarter="true"/>
 	</Adjacency_YieldChanges>
 	<Constructible_WarehouseYields>
 	</Constructible_WarehouseYields>

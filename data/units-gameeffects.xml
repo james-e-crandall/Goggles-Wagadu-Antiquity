@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- Units  -->
+	<Modifier id="SAHEL_CAVALRY_MOD_CHECK_FOR_BIOME" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_BIOME_TYPE_MATCHES">
+				<Argument name="BiomeType">BIOME_DESERT, BIOME_PLAINS</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_SAHEL_CAVALRY_IGNORE_ZOC</Argument>
+	</Modifier>
+
+	<Modifier id="SAHEL_CAVALRY_MOD_IGNORE_ZOC" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_IGNORE_ZOC">
+		<Argument name="Ignore">true</Argument>
+	</Modifier>
+</GameEffects>

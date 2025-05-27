@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Constructible_GreatWorks>
+		<!--Wonders-->
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" GreatWorkSlotType="GREATWORKSLOT_WRITING" NumSlots="1"/>
+	</Constructible_GreatWorks>
+
+</Database>

@@ -7,16 +7,16 @@
 			<Text>Sahel Cavalry</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SAHEL_CAVALRY_BASE_DESCRIPTION">
-			<Text>Wagadu Unique Cavalry Unit. Generates Influence from defeated Units during celebrations.</Text>
+			<Text>Wagadu Unique Cavalry Unit. On Plains and Desert tiles get the Swift keyword, letting them ignore enemy Units' Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SAHEL_CAVALRY_DESCRIPTION">
-			<Text>Wagadu Unique Sahel Unit.  Generates Influence from defeated Units during celebrations.</Text>
+			<Text>Wagadu Unique Sahel Unit. On Plains and Desert tiles get the Swift keyword, letting them ignore enemy Units' Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SAHEL_CAVALRY_2_DESCRIPTION">
-			<Text>Tier 2 Wagadu Unique Cavalry Unit. Generates Influence from defeated Units during celebrations.</Text>
+			<Text>Tier 2 Wagadu Unique Cavalry Unit. On Plains and Desert tiles get the Swift keyword, letting them ignore enemy Units' Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SAHEL_CAVALRY_3_DESCRIPTION">
-			<Text>Tier 3 Wagadu Unique Cavalry Unit.  Generates Influence from defeated Units during celebrations.</Text>
+			<Text>Tier 3 Wagadu Unique Cavalry Unit.On Plains and Desert tiles get the Swift keyword, letting them ignore enemy Units' Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRIBUTE_COLLECTOR_NAME">
 			<Text>Tribute Collector</Text>
@@ -24,6 +24,5 @@
 		<Row Tag="LOC_UNIT_VAISHYA_DESCRIPTION">
 			<Text>Wagadu Unique Merchant. Increases Relationship with the owner of the target Settlement, boosted further if an Independent Power or City State.</Text>
 		</Row>
-		<!-- <Text>Wagadu Unique Merchant. Civilian who can establish a Trade Route to import Resources from a foreign Settlement. Immune to flood damage. Ignores movement penalties from Wet Terrain.</Text> -->
 	</EnglishText>
 </Database>

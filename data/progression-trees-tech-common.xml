@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+
+	</Types>
+	<TypeQuotes>
+	</TypeQuotes>
+	<ProgressionTreeNodes>
+
+	</ProgressionTreeNodes>
+	<ProgressionTreeNodeUnlocks>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_WHEEL" TargetKind="KIND_UNIT" TargetType="UNIT_SAHEL_CAVALRY" UnlockDepth="1" RequiredTraitType="TRAIT_WAGADU"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_IRON_WORKING" TargetKind="KIND_UNIT" TargetType="UNIT_SAHEL_CAVALRY_2" UnlockDepth="1" RequiredTraitType="TRAIT_WAGADU"/>
+	</ProgressionTreeNodeUnlocks>
+	<ProgressionTreePrereqs>
+
+	</ProgressionTreePrereqs>
+	<ProgressionTree_Advisories>
+
+	</ProgressionTree_Advisories>
+</Database>

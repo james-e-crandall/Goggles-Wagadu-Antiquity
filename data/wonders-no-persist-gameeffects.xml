@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<Modifier id="MOD_LARABANGA_MOSQUE_FREE_CODEX" collection="COLLECTION_OWNER" effect="EFFECT_GRANT_GREAT_WORK" run-once="true" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_WONDER_IS_ACTIVE">
+				<Argument name="ConstructibleType">WONDER_LARABANGA_MOSQUE</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ObjectType">GREATWORKOBJECT_WRITING</Argument>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+</GameEffects>

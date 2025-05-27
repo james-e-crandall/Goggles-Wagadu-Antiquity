@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LoadingInfo_Ages>
+
+	</LoadingInfo_Ages>
+	<LoadingInfo_Civilizations>
+		<Row CivilizationType="CIVILIZATION_WAGADU" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_WAGADU" Audio="VO_Loading_WAGADU" Subtitle="LOC_LOADING_INTRO_WAGADU" BackgroundImageHigh="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080.png" BackgroundImageLow="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720.png" ForegroundImage="fs://game/civ_line_wagadu.png" />
+	</LoadingInfo_Civilizations>
+
+</Database>

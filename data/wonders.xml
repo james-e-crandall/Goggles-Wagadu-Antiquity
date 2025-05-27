@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<!-- Larabanga Mosque: Has a Great Work slot and generates a free Codex. Additional Happiness for each Great Work in this Settlement. -->
+	<Types>
+		<Row Type="WONDER_LARABANGA_MOSQUE" Kind="KIND_CONSTRUCTIBLE"/>
+    </Types>
+	<!-- Wonders -->
+	<TypeQuotes>
+		<Row Type="WONDER_LARABANGA_MOSQUE" Quote="LOC_QUOTE_WONDER_LARABANGA_MOSQUE" QuoteAuthor="LOC_QUOTE_AUTHOR_WONDER_LARABANGA_MOSQUE" QuoteAudio="VO_Quote_Temple_Of_Poseidon"/>
+    </TypeQuotes>
+	<Constructibles>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" Name="LOC_WONDER_LARABANGA_MOSQUE_NAME" Description="LOC_WONDER_LARABANGA_MOSQUE_DESCRIPTION" Tooltip="LOC_WONDER_LARABANGA_MOSQUE_TOOLTIP" ConstructibleClass="WONDER" Cost="275" Population="0" ImmuneDamage="true" Age="AGE_ANTIQUITY" AdjacentTerrain="TERRAIN_COAST" RequiresUnlock="true" />
+    </Constructibles>
+    <Wonders>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" MaxWorldInstances="1"  />    
+	</Wonders>
+	<Constructible_ValidDistricts>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" DistrictType="DISTRICT_WONDER"/>
+    </Constructible_ValidDistricts>
+	<Constructible_YieldChanges>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" YieldType="YIELD_HAPPINESS" YieldChange="3"/>
+    </Constructible_YieldChanges>
+	<ConstructibleModifiers>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" ModifierId="MOD_LARABANGA_MOSQUE_FREE_CODEX"/>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" ModifierId="WONDER_LARABANGA_MOSQUE_MOD_FOOD"/>
+	</ConstructibleModifiers>
+    <Constructible_Advisories>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+    </Constructible_Advisories>
+
+</Database>
