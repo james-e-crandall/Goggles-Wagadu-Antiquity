@@ -22,7 +22,7 @@
     </Constructible_YieldChanges>
 	<ConstructibleModifiers>
 		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" ModifierId="MOD_LARABANGA_MOSQUE_FREE_CODEX"/>
-		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" ModifierId="WONDER_LARABANGA_MOSQUE_MOD_FOOD"/>
+		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" ModifierId="LARABANGA_MOSQUE_MOD_GREAT_WORK_HAPPINESS"/>
 	</ConstructibleModifiers>
     <Constructible_Advisories>
 		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
