@@ -70,6 +70,6 @@
 		<Row CivilizationType="CIVILIZATION_WAGADU" BuildingCulture="MOD_MUD"/>
 	</VisArt_CivilizationBuildingCultures>
 	<VisArt_CivilizationUnitCultures>
-		<Row CivilizationType="CIVILIZATION_AKSUM" UnitCulture="Afr"/>
+		<Row CivilizationType="CIVILIZATION_WAGADU" UnitCulture="Afr"/>
 	</VisArt_CivilizationUnitCultures>
 </Database>

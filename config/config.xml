@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Leaders>
+	</Leaders>
+	<LeaderItems>
+
+	</LeaderItems>
+	<LeaderTags>
+
+	</LeaderTags>
+	<LeaderQuotes>
+
+	</LeaderQuotes>
+	<LeaderCivilizationBias>
+
+	</LeaderCivilizationBias>
+	<Civilizations>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" CivilizationName="LOC_CIVILIZATION_WAGADU_NAME" CivilizationFullName="LOC_CIVILIZATION_WAGADU_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_WAGADU_DESCRIPTION" CivilizationIcon="civ_sym_WAGADU.png"/>
+	</Civilizations>
+	<CivilizationItems>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="TRAIT_WAGADU_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_WAGADU_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="UNIT_SAHEL_CAVALRY" Kind="KIND_UNIT" Name="LOC_UNIT_SAHEL_CAVALRY_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_BASE_DESCRIPTION" Icon="ICON_UNIT_SAHEL_CAVALRY"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_DOME_KA_YOROBA" Kind="KIND_BUILDING" Name="LOC_BUILDING_DOME_KA_YOROBA_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_YIRI_SENUMAN" Kind="KIND_BUILDING" Name="LOC_BUILDING_YIRI_SENUMAN_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="QUARTER_OUAGADOU" Kind="KIND_QUARTER" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Icon="city_uniquequarter"/>
+	
+	</CivilizationItems>
+	<CivilizationTags>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" TagType="TAG_TRAIT_POLITICAL"/>
+	</CivilizationTags>
+	<LeaderCivilizationBias>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_AMINA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_HARRIET_TUBMAN" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		
+	</LeaderCivilizationBias>
+	<CivilizationUnlocks>
+		
+	</CivilizationUnlocks>
+	<LeaderUnlocks>
+
+	</LeaderUnlocks>
+	<Mementos>
+
+	</Mementos>
+</Database>

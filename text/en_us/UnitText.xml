@@ -21,7 +21,7 @@
 		<Row Tag="LOC_UNIT_TRIBUTE_COLLECTOR_NAME">
 			<Text>Tribute Collector</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_VAISHYA_DESCRIPTION">
+		<Row Tag="LOC_UNIT_TRIBUTE_COLLECTOR_DESCRIPTION">
 			<Text>Wagadu Unique Merchant. Increases Relationship with the owner of the target Settlement, boosted further if an Independent Power or City State.</Text>
 		</Row>
 	</EnglishText>

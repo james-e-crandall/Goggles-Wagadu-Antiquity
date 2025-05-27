@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<Row Tag="LOC_UNLOCK_PLAY_AS_ATLANTIS_DESCRIPTION">
+		<Row Tag="LOC_UNLOCK_PLAY_AS_WAGADU_DESCRIPTION">
 			<Text>Play as the [B]Wagadu[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_WAGADU_SONGHAI_TOOLTIP">
@@ -10,7 +10,7 @@
 		<Row Tag="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP">
 			<Text>[B]Amina[/B] was from the same continent as [B]Aksum[/B].</Text>
 		</Row>
-		<Row Tag="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_AKSUM_TOOLTIP">
+		<Row Tag="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP">
 			<Text>[B]Harriet Tubman's[/B] ancestors came from the same continent as [B]Wagadu[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_WAGADU_TOOLTIP">
