@@ -16,7 +16,8 @@
 		<Row TraitType="TRAIT_WAGADU_ABILITY" Name="LOC_TRAIT_WAGADU_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<!-- <Row TraitType="TRAIT_WAGADU_ABILITY" ModifierId="MOD_WAGADU_FORBID_CITIES_FROM_TOWNS"/> -->
+		<Row TraitType="TRAIT_WAGADU_ABILITY" ModifierId="MOD_WAGADU_GRANT_IMPROVE_TRADE_RELATIONS_TOKEN"/>
+		
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_WAGADU" TraitType="TRAIT_ANTIQUITY_CIV"/>

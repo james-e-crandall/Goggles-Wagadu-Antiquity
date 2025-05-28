@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
-
-<!-- Ghana
-Tier 1: Unlocks the Dome Complex Unique Building. Unlocks the Sacred Grove Unique Building. Increased Settlement Capacity.
-Tradition - Mazalim: Additional Influence on the Palace for each adjacent Building.
-Tier 2: Additional Gold on Influence Buildings.
-Dinar
-Tier 1: Increased Trade Route Capacity. Trade routes to and from your Settlements have additional range (as if Trading Post Towns.)
-Tradition - Salt Tax: Additional Gold on the Palace for each Trade Route to and from your Civilization.
-Kafu
-Tier 1: Additional Influence on Gold Buildings.
-Tradition - Kaya Maghan: +5% Gold in the Capital for each City State you are Suzerain of. -->
-
 	<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
 	<Modifier id="NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TRADE_ROUTE_RANGE_PER_SUZERAIN_OF">
 		<Argument name="DomainType">DOMAIN_LAND</Argument>
-		<Argument name="Amount">5</Argument>
+		<Argument name="Amount">3</Argument>
 		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME</Argument>
 		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION</String>
-	</Modifier>
-
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_GHANA_SEA_TRADE_ROUTE_SUZERAIN_RANGE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TRADE_ROUTE_RANGE_PER_SUZERAIN_OF">
-		<Argument name="DomainType">DOMAIN_SEA</Argument>
-		<Argument name="Amount">5</Argument>
-		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION</String>
 	</Modifier>
 	<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
 	<Modifier id="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_YIELD_PER_NUM_TRADE_ROUTES">
@@ -37,7 +18,7 @@ Tradition - Kaya Maghan: +5% Gold in the Capital for each City State you are Suz
 		<Argument name="YieldType">YIELD_GOLD</Argument>
 		<Argument name="Amount">1</Argument>
 		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINARSTATE_TRADE_ROUTE_DESCRIPTION</String>
+		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION</String>
 	</Modifier>
 	<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
 	<Modifier id="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_CULTURE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
@@ -53,7 +34,7 @@ Tradition - Kaya Maghan: +5% Gold in the Capital for each City State you are Suz
 		<Argument name="ToYieldType">YIELD_SCIENCE</Argument>
 		<Argument name="Percent">25</Argument>
 		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_KAFU_MOD_SCIENCE_TRADE_DESCRIPTION</String>
+		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_KAFU_SCIENCE_TRADE_DESCRIPTION</String>
 	</Modifier>
 
 </GameEffects>

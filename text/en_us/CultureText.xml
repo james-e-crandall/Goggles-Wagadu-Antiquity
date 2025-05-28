@@ -16,10 +16,14 @@
 			<Text>Ghana </Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_DESCRIPTION">
-			<Text>Unlocks the Dome Complex Unique Building. Unlocks the Sacred Grove Unique Building. Increased Settlement Capacity.</Text>
+			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION}.</Text>
 		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_2_DESCRIPTION">
-			<Text>Additional Gold on Influence Buildings.</Text>
+
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
+			<Text>Increased Land Trade Route Range per Suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
+			<Text>Increased Sea Trade Route Range per Suzerain.</Text>
 		</Row>
 
 		<!-- traditions -->
@@ -40,18 +44,17 @@
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME">
 			<Text>Dinar</Text>
 		</Row>
-
 		<Row Tag="LOC_CIVIC_AQ_WAGADU_DINAR_DESCRIPTION">
-			<Text>Increased [icon:YIELD_GOLD] Gold on Rural Districts in Cities during a golden age.</Text>
+			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES_DESCRIPTION}. {LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION}</Text>
 		</Row>
-
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES_DESCRIPTION">
+			<Text>Increased Trade Route Gold per trade route</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION">
+			<Text>Increased Trade Route Gold per City State trade route</Text>
+		</Row>
 		<!-- traditions -->
-		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_NAME">
-			<Text>Salt Tax</Text>
-		</Row>
-		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_DESCRIPTION">
-			<Text>Increased Trade Route Capacity. Trade routes to and from your Settlements have additional range (as if Trading Post Towns.)</Text>
-		</Row>
+
 
 		<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE">
@@ -75,7 +78,7 @@
 		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_DESCRIPTION">
 			<Text> +5% Gold in the Capital for each City State you are Suzerain of.</Text>
 		</Row>
-		
+
 		<!-- NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_QUOTE">
 			<Text>Bringing wealth to family</Text>
@@ -86,5 +89,25 @@
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_NAME">
 			<Text>Kaya Maghan (king of gold)</Text>
 		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_CULTURE_TRADE_DESCRIPTION">
+			<Text>Receive 25% percentage of the Gold from Trade Income as Culture.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_SCIENCE_TRADE_DESCRIPTION">
+			<Text>Receive 25% percentage of the Gold from Trade Income as Science.</Text>
+		</Row>
+		
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_NAME">
+			<Text>Salt Tax</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_DESCRIPTION">
+			<Text> Increased Gold from Trade Routes.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_MOD_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
+			<Text>Increased Trade Route Gold per City State trade route</Text>
+		</Row>
+
 	</EnglishText>
 </Database>

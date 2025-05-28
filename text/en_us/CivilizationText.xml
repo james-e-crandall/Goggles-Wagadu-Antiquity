@@ -24,7 +24,7 @@
 			<Text>Kaya Maghan</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION">
-			<Text>[LIST][LI]Additional [B][icon:YIELD_GOLD] Gold[/B] on all [B]Resources[/B]. [B]Resources[/B] Imported from Wagadu keep this additional [B][icon:YIELD_GOLD] Gold[/B].[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
+			<Text>[LIST][LI][B]Early access[/B] to the [B]Improve Trade Relations[/B] treaty diplomatic action.[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
 		</Row>
 	</EnglishText>
 </Database>

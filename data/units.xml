@@ -10,7 +10,7 @@
 	</Types>
 	<Units>
 		<Row UnitType="UNIT_SAHEL_CAVALRY" Name="LOC_UNIT_SAHEL_CAVALRY_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_DESCRIPTION" Tier="2" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_WAGADU"/>
-		<Row UnitType="UNIT_SAHEL_CAVALRY_2" Name="LOC_UNIT_SAHEL_CAVALRY_2_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_2_DESCRIPTION" Tier="3" Maintenance="3" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_WAGADU"/>
+		<Row UnitType="UNIT_SAHEL_CAVALRY_2" Name="LOC_UNIT_SAHEL_CAVALRY_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_2_DESCRIPTION" Tier="3" Maintenance="3" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_WAGADU_2"/>
 	</Units>
 	<Unit_Stats>
 		<Row UnitType="UNIT_SAHEL_CAVALRY" Combat="30"/>

@@ -29,10 +29,19 @@
             <ID>cult_wagadu</ID>
             <Path>fs://game/goggles_civ_wagadu/icons/cult_wagadu.png</Path>
         </Row> 
+        <!-- Building -->
+		<Row>
+			<ID>BUILDING_DOME_KA_YOROBA</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/buildicon_dome_ka_yoroba.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_YIRI_SENUMAN</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/buildicon_yiri_senuman.png</Path>
+		</Row>  
         <!-- wonder -->
 		<Row>
 			<ID>WONDER_LARABANGA_MOSQUE</ID>
-			<Path>fs://game/goggles_civ_germania/icons/wondericon_larabanga_mosque.png</Path>
+			<Path>fs://game/goggles_civ_wagadu/icons/wondericon_larabanga_mosque.png</Path>
 		</Row>
 
         <!-- UU AND UI -->

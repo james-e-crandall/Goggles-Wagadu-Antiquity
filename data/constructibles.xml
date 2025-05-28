@@ -14,8 +14,8 @@
 				
 	</Constructibles>
 	<Buildings>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" Movable="false"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" Movable="false"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" Movable="false" TraitType="TRAIT_WAGADU"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" Movable="false" TraitType="TRAIT_WAGADU"/>
 	</Buildings>
 	<Improvements>
 	</Improvements>
