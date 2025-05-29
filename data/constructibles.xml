@@ -93,7 +93,7 @@
 	<ConstructibleModifiers>
 	</ConstructibleModifiers>
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU" BuildingType1="BUILDING_DOME_KA_YOROBA" BuildingType2="BUILDING_YIRI_SENUMAN" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
+		<Row UniqueQuarterType="QUARTER_OUAGADOU" BuildingType1="BUILDING_DOME_KA_YOROBA" BuildingType2="BUILDING_YIRI_SENUMAN" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_TOOLTIP" TraitType="TRAIT_WAGADU"/>
 	</UniqueQuarters>
 	<GameModifiers>
 		<Row ModifierId="MOD_OUAGADOU_TRADE_ROUTE"/>

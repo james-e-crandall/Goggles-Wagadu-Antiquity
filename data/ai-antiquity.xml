@@ -33,7 +33,7 @@
 		<Row ListType="Wagadu Constructibles Biases" Item="WONDER_LARABANGA_MOSQUE" Value="50"/>
 		<Row ListType="Wagadu Unit Biases" Item="UNIT_SAHEL_CAVALRY" Value="50"/>
 		<Row ListType="Wagadu Unit Biases" Item="UNIT_SAHEL_CAVALRY_2" Value="50"/>
-		<Row ListType="Wagadu Unit Biases" Item="UNIT_MERCHANT" Value="200"/>
+		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER" Value="200"/>
 	</AiFavoredItems>
 	<!-- City Strategies -->
 	<Strategies>

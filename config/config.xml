@@ -19,7 +19,7 @@
 	</Civilizations>
 	<CivilizationItems>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="TRAIT_WAGADU_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_WAGADU_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="UNIT_SAHEL_CAVALRY" Kind="KIND_UNIT" Name="LOC_UNIT_SAHEL_CAVALRY_NAME" Description="LOC_UNIT_SAHEL_CAVALRY_BASE_DESCRIPTION" Icon="ICON_UNIT_SAHEL_CAVALRY"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="UNIT_TRANS_SAHARAN_TRADER" Kind="KIND_UNIT" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_DESCRIPTION" Icon="ICON_UNIT_TRANS_SAHARAN_TRADER"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_DOME_KA_YOROBA" Kind="KIND_BUILDING" Name="LOC_BUILDING_DOME_KA_YOROBA_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_DESCRIPTION" Icon="ICON_BUILDING_DOME_KA_YOROBA"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_YIRI_SENUMAN" Kind="KIND_BUILDING" Name="LOC_BUILDING_YIRI_SENUMAN_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_DESCRIPTION" Icon="ICON_BUILDING_YIRI_SENUMAN"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="QUARTER_OUAGADOU" Kind="KIND_QUARTER" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Icon="city_uniquequarter"/>

@@ -3,18 +3,11 @@
     <VisualRemaps>
     <!-- subei -->
         <Row>
-            <ID>REMAP_UNIT_SAHEL_CAVALRY</ID>
-            <DisplayName>LOC_UNIT_SAHEL_CAVALRY_NAME</DisplayName>
+            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER</ID>
+            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_SAHEL_CAVALRY</From>
-            <To>UNIT_HORSEMAN</To>
-        </Row>
-        <Row>
-            <ID>REMAP_UNIT_SAHEL_CAVALRY_2</ID>
-            <DisplayName>LOC_UNIT_SAHEL_CAVALRY_2_NAME</DisplayName>
-            <Kind>UNIT</Kind>
-            <From>UNIT_SAHEL_CAVALRY_2</From>
-            <To>UNIT_HORSEMAN</To>
+            <From>UNIT_TRANS_SAHARAN_TRADER</From>
+            <To>UNIT_MERCHANT</To>
         </Row>
         
     </VisualRemaps>

@@ -27,12 +27,41 @@
 		</Row>
 
 		<!-- traditions -->
-		<Row Tag="LOC_TRADITION_WAGADU_MAZALIM_NAME">
-			<Text>Mazalim</Text>
+		<Row Tag="LOC_TRADITION_WAGADU_DINGA_NAME">
+			<Text>Dinga</Text>
 		</Row>
-		<Row Tag="LOC_TRADITION_WAGADU_MAZALIM_DESCRIPTION">
+		<Row Tag="LOC_TRADITION_WAGADU_DINGA_DESCRIPTION">
 			<Text>Additional Influence on the Palace for each adjacent Building.</Text>
 		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_NAME">
+			<Text>Bambouk</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_DESCRIPTION">
+			<Text>x y z</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME">
+			<Text>Kwame Nkrumah</Text>
+		</Row>
+		<Row Tag="LOCNODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_DESCRIPTION">
+			<Text>x y z</Text>
+		</Row>
+
 
 		<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE">
@@ -76,7 +105,7 @@
 			<Text>Kaya Maghan</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_DESCRIPTION">
-			<Text> +5% Gold in the Capital for each City State you are Suzerain of.</Text>
+			<Text>Increased Trade Route range for each City State you are Suzerain of.</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN -->

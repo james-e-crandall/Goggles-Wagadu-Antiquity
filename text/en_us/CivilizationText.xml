@@ -21,10 +21,13 @@
 
 		<!-- Ability-->
 		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_NAME">
-			<Text>Kaya Maghan</Text>
+			<Text>Gassire's Lute</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WAGADU_DESCRIPTION">
+			<Text>Gain an additional [B]Population [/B]when a trade route is established.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION">
-			<Text>[LIST][LI][B]Early access[/B] to the [B]Improve Trade Relations[/B] treaty diplomatic action.[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
+			<Text>[LIST][LI][B]Gain an additional [B]Population [/B]when a trade route is established.[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
 		</Row>
 	</EnglishText>
 </Database>

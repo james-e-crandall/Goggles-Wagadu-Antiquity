@@ -46,14 +46,10 @@
 
         <!-- UU AND UI -->
         <Row>
-            <ID>UNIT_SAHEL_CAVALRY</ID>
-            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_sahel_cavalry.png</Path>
+            <ID>UNIT_TRANS_SAHARAN_TRADER</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_trans_saharan_trader.png</Path>
             <Context>DEFAULT</Context>
         </Row>
-        <Row>
-            <ID>UNIT_SAHEL_CAVALRY_2</ID>
-            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_sahel_cavalry.png</Path>
-            <Context>DEFAULT</Context>
-        </Row>
+
     </IconDefinitions>
 </Database>

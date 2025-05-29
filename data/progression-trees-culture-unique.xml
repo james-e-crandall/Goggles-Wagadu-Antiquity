@@ -5,11 +5,15 @@
 		<Row Type="TREE_CIVICS_AQ_WAGADU" Kind="KIND_TREE"/>
 		<!-- nodes -->
 		<Row Type="NODE_CIVIC_AQ_WAGADU_GHANA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_WAGADU_BAMBOUK" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" Kind="KIND_TREE_NODE"/>
 		<Row Type="NODE_CIVIC_AQ_WAGADU_DINAR" Kind="KIND_TREE_NODE"/>
 		<Row Type="NODE_CIVIC_AQ_WAGADU_KAFU" Kind="KIND_TREE_NODE"/>
 	</Types>
 	<TypeQuotes>
 		<Row Type="NODE_CIVIC_AQ_WAGADU_GHANA" Quote="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
+		<Row Type="NODE_CIVIC_AQ_WAGADU_BAMBOUK" Quote="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
+		<Row Type="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" Quote="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
 		<Row Type="NODE_CIVIC_AQ_WAGADU_DINAR" Quote="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Dinar" />
 		<Row Type="NODE_CIVIC_AQ_WAGADU_KAFU" Quote="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Kafu" />
 	</TypeQuotes>
@@ -18,36 +22,39 @@
 	</ProgressionTrees>
 	<ProgressionTreeNodes>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME" IconString="cult_WAGADU" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_BAMBOUK" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_NAME" IconString="cult_WAGADU" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME" IconString="cult_WAGADU" />
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME" IconString="cult_WAGADU" />
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="400" Name="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME" IconString="cult_WAGADU" />
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
 		<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_DOME_KA_YOROBA" UnlockDepth="1"/>
-
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_LARABANGA_MOSQUE" UnlockDepth="2"/>	
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_WAGADU_MAZALIM" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_FREE_MERCHANT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_LARABANGA_MOSQUE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_WAGADU_DINGA" UnlockDepth="1"/>
 		
+		<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_BAMBOUK" TargetKind="KIND_UNIT" TargetType="UNIT_TRANS_SAHARAN_TRADER" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_BAMBOUK" TargetKind="KIND_DIPLOMATIC_ACTION" TargetType="DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS" UnlockDepth="1"/>
+		
+		<!-- NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_YIRI_SENUMAN" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" TargetKind="KIND_TRADITION" TargetType="TRADITION_WAGADU_KAYA_MAGHAN" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES" UnlockDepth="1"/>	
+
 		<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_TRADITION" TargetType="TRADITION_WAGADU_KAYA_MAGHAN" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_YIRI_SENUMAN" UnlockDepth="1"/>
-
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_CITY_STATE_TRADE_ROUTE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_FREE_MERCHANT" UnlockDepth="2"/>
-
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_CULTURE_TRADE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_CITY_STATE_TRADE_ROUTE" UnlockDepth="1"/>
+		
 		<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_CULTURE_TRADE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" TargetKind="KIND_TRADITION" TargetType="TRADITION_WAGADU_SALT_TAX" UnlockDepth="1"/>
-
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_SCIENCE_TRADE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" TargetKind="KIND_MODIFIER" TargetType="MOD_AQ_FREE_MERCHANT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" TargetKind="KIND_MODIFIER" TargetType="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_SCIENCE_TRADE" UnlockDepth="1"/>
 		
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
-		<Row Node="NODE_CIVIC_AQ_WAGADU_DINAR" PrereqNode="NODE_CIVIC_AQ_WAGADU_GHANA"/>
+		<Row Node="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" PrereqNode="NODE_CIVIC_AQ_WAGADU_GHANA"/>
+		<Row Node="NODE_CIVIC_AQ_WAGADU_DINAR" PrereqNode="NODE_CIVIC_AQ_WAGADU_BAMBOUK"/>
+		<Row Node="NODE_CIVIC_AQ_WAGADU_KAFU" PrereqNode="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH"/>
 		<Row Node="NODE_CIVIC_AQ_WAGADU_KAFU" PrereqNode="NODE_CIVIC_AQ_WAGADU_DINAR"/>
 	</ProgressionTreePrereqs>
 	<ProgressionTree_Advisories>

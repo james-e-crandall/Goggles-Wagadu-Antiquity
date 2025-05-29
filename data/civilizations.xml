@@ -16,8 +16,7 @@
 		<Row TraitType="TRAIT_WAGADU_ABILITY" Name="LOC_TRAIT_WAGADU_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_WAGADU_ABILITY" ModifierId="MOD_WAGADU_GRANT_IMPROVE_TRADE_RELATIONS_TOKEN"/>
-		
+		<Row TraitType="TRAIT_WAGADU_ABILITY" ModifierId="TRAIT_MOD_GASSIRES_LUTE_POPULATION"/>					
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_WAGADU" TraitType="TRAIT_ANTIQUITY_CIV"/>
@@ -59,7 +58,7 @@
 		<Row CivilizationType="CIVILIZATION_WAGADU" CityName="LOC_CITY_NAME_WAGADU22"/>
 	</CityNames>
 	<StartBiasBiomes>
-		<Row CivilizationType="CIVILIZATION_WAGADU" BiomeType="BIOME_DESERT" Score="5"/>
+		<Row CivilizationType="CIVILIZATION_WAGADU" BiomeType="BIOME_DESERT" Score="15"/>
 	</StartBiasBiomes>
 	<StartBiasTerrains>
 		<Row CivilizationType="CIVILIZATION_WAGADU" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="20"/>
