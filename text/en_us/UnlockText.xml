@@ -8,13 +8,16 @@
 			<Text>[B]Wagadu[/B] was from the same continent as [B]Songhai[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP">
-			<Text>[B]Amina[/B] was from the same continent as [B]Aksum[/B].</Text>
+			<Text>[B]Amina[/B] was from the same continent as [B]Wagadu[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP">
 			<Text>[B]Harriet Tubman's[/B] ancestors came from the same continent as [B]Wagadu[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_WAGADU_TOOLTIP">
-			<Text>[B]Ibn Battuta[/B] traveled in the same region as [B]Aksum[/B].</Text>
+			<Text>[B]Ibn Battuta[/B] traveled in the same region as [B]Wagadu[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_XERXES_ALT_WAGADU_TOOLTIP">
+			<Text>The [B]Xerxes, The Achaemenid[/B] offer a complementary playstyle to [B]Wagadu[/B].</Text>
 		</Row>
 	</EnglishText>
 </Database>

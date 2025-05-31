@@ -10,6 +10,10 @@
 	<Dependencies>
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
 	</Dependencies>
+	<References>
+		<Mod id="friedrich-xerxes-alt" title="LOC_MODULE_FRIEDRICH_XERXES_ALT_NAME"/>
+		<Mod id="friedrich-xerxes-alt" title="LOC_MODULE_FRIEDRICH_XERXES_ALT_DESCRIPTION"/>
+	</References>
 	<ActionCriteria>
 		<Criteria id="antiquity-age-current">
 			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
@@ -33,11 +37,13 @@
 			<AlwaysMet></AlwaysMet>
 		</Criteria>
         <Criteria all="true" id="ged-ynamp-enable">
-            <!-- let other mods override the yield banner -->
             <ModInUse>ged-ynamp</ModInUse>
         </Criteria>
         <Criteria all="true" id="izica-unit-portrait-visual-remaps-enable">
             <ModInUse>izica-unit-portrait-visual-remaps</ModInUse>
+        </Criteria>
+        <Criteria all="true" id="friedrich-xerxes-alt-enable">
+            <ModInUse>friedrich-xerxes-alt</ModInUse>
         </Criteria>
 	</ActionCriteria>
 	<ActionGroups>
@@ -56,6 +62,13 @@
 					<Item>ui/game.js</Item>
 				</UIScripts>
 			</Actions>
+		</ActionGroup>
+		<ActionGroup id="wagadu-friedrich-xerxes-alt" scope="game" criteria="friedrich-xerxes-alt-enable">
+			<Actions>
+                <UpdateDatabase>
+					<Item>friedrich-xerxes-alt/data/civilizations-legacy.xml</Item>
+                </UpdateDatabase>
+            </Actions>
 		</ActionGroup>
 		<!-- wagadu -->
         <ActionGroup id="goggles-mod-wagadu" scope="game" criteria="always">

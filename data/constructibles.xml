@@ -96,11 +96,11 @@
 		<Row UniqueQuarterType="QUARTER_OUAGADOU" BuildingType1="BUILDING_DOME_KA_YOROBA" BuildingType2="BUILDING_YIRI_SENUMAN" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_TOOLTIP" TraitType="TRAIT_WAGADU"/>
 	</UniqueQuarters>
 	<GameModifiers>
-		<Row ModifierId="MOD_OUAGADOU_TRADE_ROUTE"/>
+		<Row ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU" ModifierId="MOD_OUAGADOU_TRADE_ROUTE"/>
+		<Row UniqueQuarterType="QUARTER_OUAGADOU" ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 	</Constructible_Advisories>

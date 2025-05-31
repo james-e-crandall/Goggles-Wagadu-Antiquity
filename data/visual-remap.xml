@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Database>
     <VisualRemaps>
-    <!-- subei -->
         <Row>
             <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER</ID>
             <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_NAME</DisplayName>
@@ -9,6 +8,12 @@
             <From>UNIT_TRANS_SAHARAN_TRADER</From>
             <To>UNIT_MERCHANT</To>
         </Row>
-        
+        <Row>
+            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER_2</ID>
+            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_NAME</DisplayName>
+            <Kind>UNIT</Kind>
+            <From>UNIT_TRANS_SAHARAN_TRADER_2</From>
+            <To>UNIT_MERCHANT</To>
+        </Row>
     </VisualRemaps>
 </Database>

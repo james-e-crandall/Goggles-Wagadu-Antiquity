@@ -5,35 +5,6 @@
 			<Text>Wagadu Civics</Text>
 		</Row>
 
-		<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME">
-			<Text>Ghana </Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_DESCRIPTION">
-			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION}.</Text>
-		</Row>
-
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
-			<Text>Increased Land Trade Route Range per Suzerain.</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
-			<Text>Increased Sea Trade Route Range per Suzerain.</Text>
-		</Row>
-
-		<!-- traditions -->
-		<Row Tag="LOC_TRADITION_WAGADU_DINGA_NAME">
-			<Text>Dinga</Text>
-		</Row>
-		<Row Tag="LOC_TRADITION_WAGADU_DINGA_DESCRIPTION">
-			<Text>Additional Influence on the Palace for each adjacent Building.</Text>
-		</Row>
-
 		<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_QUOTE">
 			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
@@ -47,21 +18,7 @@
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_DESCRIPTION">
 			<Text>x y z</Text>
 		</Row>
-
-		<!-- NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME">
-			<Text>Kwame Nkrumah</Text>
-		</Row>
-		<Row Tag="LOCNODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_DESCRIPTION">
-			<Text>x y z</Text>
-		</Row>
-
+		<!-- Modifiers -->
 
 		<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_QUOTE">
@@ -74,32 +31,58 @@
 			<Text>Dinar</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_AQ_WAGADU_DINAR_DESCRIPTION">
-			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES_DESCRIPTION}. {LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION}</Text>
+			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES_DESCRIPTION}.</Text>
 		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES_DESCRIPTION">
-			<Text>Increased Trade Route Gold per trade route</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION">
-			<Text>Increased Trade Route Gold per City State trade route</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES_DESCRIPTION">
+			<Text>+2 [icon:YIELD_HAPPINESS] Happiness in source city for each Trade Route.</Text>
 		</Row>
 		<!-- traditions -->
-
-
-		<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE">
-			<Text>Bringing wealth to family</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE_AUTHOR">
-			<Text>Child's Name</Text>
-		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME">
-			<Text>Laws of the Ten Kings</Text>
-		</Row>
-
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_DESCRIPTION">
 			<Text>Additional Influence on Gold Buildings.</Text>
 		</Row>
 
+
+		<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME">
+			<Text>Ghana </Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_DESCRIPTION">
+			<Text>{LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION}.</Text>
+		</Row>
+		<!-- Modifiers -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_LAND_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
+			<Text>Increased Land Trade Route Range per Suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
+			<Text>Increased Sea Trade Route Range per Suzerain.</Text>
+		</Row>
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_WAGADU_DINGA_NAME">
+			<Text>Dinga</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WAGADU_DINGA_DESCRIPTION">
+			<Text>Additional Influence on the Palace for each adjacent Building.</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE">
+			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_QUOTE_AUTHOR">
+			<Text>Song of the Turtle</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME">
+			<Text>Kwame Nkrumah</Text>
+		</Row>
+		<Row Tag="LOCNODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_DESCRIPTION">
+			<Text>Access to Trans-Saharan Trader</Text>
+		</Row>
 		<!-- traditions -->
 		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_NAME">
 			<Text>Kaya Maghan</Text>
@@ -118,6 +101,18 @@
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_NAME">
 			<Text>Kaya Maghan (king of gold)</Text>
 		</Row>
+
+		<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE">
+			<Text>Bringing wealth to family</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE_AUTHOR">
+			<Text>Child's Name</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME">
+			<Text>Kafu</Text>
+		</Row>
+
 		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_CULTURE_TRADE_DESCRIPTION">
 			<Text>Receive 25% percentage of the Gold from Trade Income as Culture.</Text>
 		</Row>
@@ -132,8 +127,6 @@
 		<Row Tag="LOC_TRADITION_WAGADU_SALT_TAX_DESCRIPTION">
 			<Text> Increased Gold from Trade Routes.</Text>
 		</Row>
-
-
 		<Row Tag="LOC_TRADITION_WAGADU_KAYA_MAGHAN_MOD_SEA_TRADE_ROUTE_SUZERAIN_RANGE_DESCRIPTION">
 			<Text>Increased Trade Route Gold per City State trade route</Text>
 		</Row>

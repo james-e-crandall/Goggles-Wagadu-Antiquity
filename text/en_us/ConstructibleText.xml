@@ -29,7 +29,7 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_QUARTER_OUAGADOU_DESCRIPTION">
-			<Text>Wagadu Unique Quarter. Created by constructing the Dome Ka Yoroba and Yiri Senuman in the same District. +1[icon:YIELD_GOLD] Gold on trade routes from this city.</Text>
+			<Text>Wagadu Unique Quarter. Created by constructing the Dome Ka Yoroba and Yiri Senuman in the same District. +2 Resource Capacity this city.</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_OUAGADOU_TOOLTIP">
 			<Text>+1[icon:YIELD_GOLD] Gold on trade routes from this city.</Text>

@@ -14,15 +14,15 @@
 	</Modifier>
 	<!-- TRADITION_WAGADU_KAYA_MAGHAN -->
 	<Modifier id="TRADITION_WAGADU_KAYA_MAGHAN_LAND_MOD" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_TRADE_ROUTE_RANGE_PER_SUZERAIN_OF">
-		<Argument name="DomainType">DOMAIN_SEA</Argument>
+		<Argument name="DomainType">DOMAIN_LAND</Argument>
 		<Argument name="Amount">3</Argument>
-		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME</Argument>
+		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_NAME</Argument>
 		<String context="Description">LOC_TRADITION_WAGADU_KAYA_MAGHAN_DESCRIPTION</String>
 	</Modifier>
 	<Modifier id="TRADITION_WAGADU_KAYA_MAGHAN_SEA_MOD" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_TRADE_ROUTE_RANGE_PER_SUZERAIN_OF">
 		<Argument name="DomainType">DOMAIN_SEA</Argument>
 		<Argument name="Amount">3</Argument>
-		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME</Argument>
+		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_KAYA_MAGHAN_NAME</Argument>
 	</Modifier>
 
 </GameEffects>

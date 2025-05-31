@@ -3,22 +3,27 @@
 	<Types>
 		<!-- Civ Unique Military -->
 		<Row Type="UNIT_TRANS_SAHARAN_TRADER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TRANS_SAHARAN_TRADER_2" Kind="KIND_UNIT"/>
+		
 		<!-- Unique Abilities -->
 		<Row Type="ABILITY_TRANS_SAHARAN_TRADER" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
 		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_DESCRIPTION" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_2" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_DESCRIPTION" BaseSightRange="2" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20"/>
 	</Units>
 	<Unit_Stats>
 
 	</Unit_Stats>
 	<Unit_Costs>
 		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER" YieldType="YIELD_PRODUCTION" Cost="20"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_2" YieldType="YIELD_PRODUCTION" Cost="40"/>
 	</Unit_Costs>
 	<UnitUpgrades>
+		<Row Unit="UNIT_TRANS_SAHARAN_TRADER" UpgradeUnit="UNIT_TRANS_SAHARAN_TRADER_2"/>
 	</UnitUpgrades>
 	<UnitReplaces>
-		<Row CivUniqueUnitType="UNIT_TRANS_SAHARAN_TRADER" ReplacesUnitType="UNIT_MERCHANT"/>
+		<Row CivUniqueUnitType="UNIT_TRANS_SAHARAN_TRADER_2" ReplacesUnitType="UNIT_MERCHANT"/>
 	</UnitReplaces>
 	<Unit_TransitionRetains>
 	</Unit_TransitionRetains>
@@ -32,6 +37,10 @@
 		<Row Type="UNIT_TRANS_SAHARAN_TRADER" Tag="UNIT_CLASS_NON_COMBAT"/>
 		<Row Type="UNIT_TRANS_SAHARAN_TRADER" Tag="UNIT_CLASS_MAKE_TRADE_ROUTE"/>
 		<Row Type="UNIT_TRANS_SAHARAN_TRADER" Tag="UNIT_CLASS_TRANS_SAHARAN_TRADER"/>
+
+		<Row Type="UNIT_TRANS_SAHARAN_TRADER_2" Tag="UNIT_CLASS_NON_COMBAT"/>
+		<Row Type="UNIT_TRANS_SAHARAN_TRADER_2" Tag="UNIT_CLASS_MAKE_TRADE_ROUTE"/>
+		<Row Type="UNIT_TRANS_SAHARAN_TRADER_2" Tag="UNIT_CLASS_TRANS_SAHARAN_TRADER"/>
 	</TypeTags>
 	<UnitClass_Abilities>
 		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" UnitClassType="UNIT_CLASS_TRANS_SAHARAN_TRADER"/>
@@ -40,16 +49,18 @@
 		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" Name="LOC_ABILITY_TRANS_SAHARAN_TRADER_NAME" Description="LOC_ABILITY_TRANS_SAHARAN_TRADER_DESCRIPTION"/>
 	</UnitAbilities>
 	<UnitAbilityModifiers>
-		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="HULCHE_MOD_IGNORE_FOREST"/>
-		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="HULCHE_MOD_IGNORE_RAINFOREST"/>
-		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="HULCHE_MOD_IGNORE_SAGEBRUSH_STEPPE"/>
-		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="HULCHE_MOD_IGNORE_SAVANNA_WOODLAND"/>
-		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="HULCHE_MOD_IGNORE_TAIGA"/>
+		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="TRANS_SAHARAN_TRADER_MOD_IGNORE_FOREST"/>
+		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="TRANS_SAHARAN_TRADER_MOD_IGNORE_RAINFOREST"/>
+		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="TRANS_SAHARAN_TRADER_MOD_IGNORE_SAGEBRUSH_STEPPE"/>
+		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="TRANS_SAHARAN_TRADER_MOD_IGNORE_SAVANNA_WOODLAND"/>
+		<Row UnitAbilityType="ABILITY_TRANS_SAHARAN_TRADER" ModifierId="TRANS_SAHARAN_TRADER_MOD_IGNORE_TAIGA"/>
 	</UnitAbilityModifiers>
 	<ChargedUnitAbilities>
 	</ChargedUnitAbilities>
 	<Unit_Advisories>
 		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
 		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER" AdvisoryClassType="ADVISORY_CLASS_TRADE"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_2" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_2" AdvisoryClassType="ADVISORY_CLASS_TRADE"/>
 	</Unit_Advisories>
 </Database>

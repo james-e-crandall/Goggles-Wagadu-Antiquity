@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
-	<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
+
+	<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
 
 	<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_YIELD_PER_NUM_TRADE_ROUTES">
-		<Argument name="YieldType">YIELD_GOLD</Argument>
-		<Argument name="Amount">1</Argument>
+	<Modifier id="NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_NUM_TRADE_ROUTES">
+		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="Amount">3</Argument>
 		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_NUM_TRADE_ROUTES_DESCRIPTION</String>
+		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES_DESCRIPTION</String>
 	</Modifier>
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_DINAR_MOD_YIELD_PER_CITY_STATE_TRADE_ROUTE" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_YIELD_PER_CITY_STATE_TRADE_ROUTE">
-		<Argument name="YieldType">YIELD_GOLD</Argument>
-		<Argument name="Amount">1</Argument>
-		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_CITY_STATE_TRADE_ROUTE_DESCRIPTION</String>
-	</Modifier>
+
+	<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
+
+
 	<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
 	<Modifier id="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_CULTURE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
 		<Argument name="FromYieldType">YIELD_GOLD</Argument>
