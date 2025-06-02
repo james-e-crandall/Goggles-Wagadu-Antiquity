@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Mod id="goggles_civ_wagadu" version="1"
 	xmlns="ModInfo">
+	<!--
+		Based on Design by TheGhostEnthusiast
+	 	https://forums.civfanatics.com/threads/design-a-civ-using-known-civ-vii-mechanics.691486/page-6#post-16740319
+	-->
 	<Properties>
 		<Name>LOC_MODULE_WAGADU_NAME</Name>
 		<Description>LOC_MODULE_WAGADU_DESCRIPTION</Description>

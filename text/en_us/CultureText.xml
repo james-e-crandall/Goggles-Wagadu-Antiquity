@@ -37,9 +37,6 @@
 			<Text>+2 [icon:YIELD_HAPPINESS] Happiness in source city for each Trade Route.</Text>
 		</Row>
 		<!-- traditions -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_DESCRIPTION">
-			<Text>Additional Influence on Gold Buildings.</Text>
-		</Row>
 
 
 		<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
