@@ -31,9 +31,9 @@
 	</CivilizationTags>
 	<LeaderCivilizationBias>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_AMINA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_HARRIET_TUBMAN" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_HARRIET_TUBMAN" Bias="4" ReasonType="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_IBN_BATTUTA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_XERXES_ALT" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_XERXES_ALT_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_XERXES_ALT" Bias="3" ReasonType="LOC_UNLOCK_PLAY_AS_XERXES_ALT_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
 	
 	</LeaderCivilizationBias>
 	<CivilizationUnlocks>
