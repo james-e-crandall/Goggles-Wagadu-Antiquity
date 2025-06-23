@@ -7,7 +7,7 @@
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU"/>
 	</Unlocks>
 	<UnlockRewards>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU" Name="LOC_CIVILIZATION_WAGADU_NAME" Description="LOC_UNLOCK_ANTIQUITY_CIV_DESCRIPTION" Icon="CIVILIZATION_WAGADU" CivUnlock="true"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU" Name="LOC_CIVILIZATION_WAGADU_NAME" Description="LOC_UNLOCK_ANTIQUITY_CIV_DESCRIPTION" Icon="CIVILIZATION_WAGADU" UnlockRewardType="CIVILIZATION_WAGADU" UnlockRewardKind="KIND_CIVILIZATION" />
 	</UnlockRewards>
 	<UnlockRequirements>
 	</UnlockRequirements>
