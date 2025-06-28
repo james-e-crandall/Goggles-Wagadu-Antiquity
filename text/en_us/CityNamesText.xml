@@ -2,61 +2,61 @@
 <Database>
 	<EnglishText>
 		<!--WAGADU-->
-		<Row Tag="LOC_CITY_NAME_WAGADU1">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC1">
 			<Text>Koumbi Saleh</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU2">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC2">
 			<Text>Taghaza</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU3">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC3">
 			<Text>Wangara</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU4">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC4">
 			<Text>Tegadoust</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU5">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC5">
 			<Text>Taghaza</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU6">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC6">
 			<Text>Aoudaghost</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU7">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC7">
 			<Text>Jenné-Jeno</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU8">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC8">
 			<Text>Gao</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU9">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC9">
 			<Text>Dia</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU10">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC10">
 			<Text>Goumbou</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU11">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC11">
 			<Text>Néma</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU12">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC12">
 			<Text>Oualata</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU13">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC13">
 			<Text>Awgham</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU14">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC14">
 			<Text>Koumbi</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU15">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC15">
 			<Text>Adrar</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU16">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC16">
 			<Text>Tagant</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU17">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC17">
 			<Text> Dhar Tichitt </Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU18">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC18">
 			<Text>Saberi Faita</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_WAGADU19">
+		<Row Tag="LOC_CITY_NAME_WAGADU_JEC19">
 			<Text>Bamako</Text>
 		</Row>
 	</EnglishText>
