@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<Row Tag="LOC_CIVILIZATION_WAGADU_NAME">
+		<Row Tag="LOC_CIVILIZATION_WAGADU_JEC_NAME">
 			<Text>Wagadu</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_WAGADU_FULLNAME">
+		<Row Tag="LOC_CIVILIZATION_WAGADU_JEC_FULLNAME">
 			<Text>Ghana Empire</Text>
 		</Row>
 
@@ -14,19 +14,19 @@
 		</Row>
 
 		<!--Civilization Adjectives-->
-		<Row Tag="LOC_CIVILIZATION_WAGADU_ADJECTIVE">
+		<Row Tag="LOC_CIVILIZATION_WAGADU_JEC_ADJECTIVE">
 			<Text>Wagadu</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 
 		<!-- Ability-->
-		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_NAME">
+		<Row Tag="LOC_TRAIT_WAGADU_JEC_ABILITY_NAME">
 			<Text>Gassire's Lute</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_WAGADU_DESCRIPTION">
+		<Row Tag="LOC_CIVILIZATION_WAGADU_JEC_DESCRIPTION">
 			<Text>+2 [icon:YIELD_DIPLOMACY] Influence for each Trade Route.</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION">
+		<Row Tag="LOC_TRAIT_WAGADU_JEC_ABILITY_DESCRIPTION">
 			<Text>[LIST][LI][B]Gain [icon:YIELD_DIPLOMACY][B]Influence[/B] for each [B]Trade Route[/B].[LI][B]+30% [icon:YIELD_PRODUCTION] Production [/B]towards constructing the [B]Larabanga Mosque[/B].[/LIST]</Text>
 		</Row>
 	</EnglishText>

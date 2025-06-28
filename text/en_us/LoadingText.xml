@@ -7,5 +7,8 @@
 		<Row Tag="LOC_LOADING_INTRO_WAGADU">
 			<Text>Wagadu rose and fell four times: once through vanity. Once through dishonesty. Once through greed. Once through discord.</Text>
 		</Row>
+		<Row Tag="LOC_LOADING_CIV_TIPS_TEXT_WAGADU">
+			<Text>Wagadu gets trading going early and get bonuses to routes in the Wagadu civics tree.</Text>
+		</Row>
 	</EnglishText>
 </Database>

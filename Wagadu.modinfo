@@ -84,15 +84,15 @@
 					<Item>text/en_us/UnlockText.xml</Item>
                 </UpdateText>
                 <ImportFiles>
-					<Item>icons/civ_sym_wagadu</Item>
-                    <Item>icons/civ_sym_wagadu.png</Item>
-					<Item>icons/cult_wagadu.png</Item>
-					<Item>icons/unitflag_sahel_cavalry.png</Item>
+					<Item>icons/civ_sym_wagadu_jec</Item>
+                    <Item>icons/civ_sym_wagadu_jec.png</Item>
+					<Item>icons/cult_wagadu_jec.png</Item>
+					<Item>icons/unitflag_sahel_cavalry_jec.png</Item>
 					<Item>icons/wondericon_larabanga_mosque.png</Item>
 					<Item>icons/lsbg_wagadu_1080</Item>
 					<Item>icons/lsbg_wagadu_720</Item>
-					<Item>icons/buildicon_dome_ka_yoroba.png</Item>
-					<Item>icons/buildicon_yiri_senuman.png</Item>
+					<Item>icons/buildicon_dome_ka_yoroba_jec.png</Item>
+					<Item>icons/buildicon_yiri_senuman_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/wagadu.xml</Item>
@@ -185,15 +185,15 @@
 					<Item>config/config.xml</Item>
 				</UpdateDatabase>
                 <ImportFiles>
-					<Item>icons/civ_sym_wagadu</Item>
-                    <Item>icons/civ_sym_wagadu.png</Item>
-					<Item>icons/cult_wagadu.png</Item>
-					<Item>icons/unitflag_sahel_cavalry.png</Item>
+					<Item>icons/civ_sym_wagadu_jec</Item>
+                    <Item>icons/civ_sym_wagadu_jec.png</Item>
+					<Item>icons/cult_wagadu_jec.png</Item>
+					<Item>icons/unitflag_sahel_cavalry_jec.png</Item>
 					<Item>icons/wondericon_larabanga_mosque.png</Item>
 					<Item>icons/lsbg_wagadu_1080</Item>
 					<Item>icons/lsbg_wagadu_720</Item>
-					<Item>icons/buildicon_dome_ka_yoroba.png</Item>
-					<Item>icons/buildicon_yiri_senuman.png</Item>
+					<Item>icons/buildicon_dome_ka_yoroba_jec.png</Item>
+					<Item>icons/buildicon_yiri_senuman_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/wagadu.xml</Item>

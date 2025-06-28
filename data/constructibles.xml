@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>  
 	<Types>
-		<Row Type="BUILDING_DOME_KA_YOROBA" Kind="KIND_CONSTRUCTIBLE"/>
-		<Row Type="BUILDING_YIRI_SENUMAN" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_DOME_KA_YOROBA_JEC" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_YIRI_SENUMAN_JEC" Kind="KIND_CONSTRUCTIBLE"/>
 	</Types>
 	<TypeQuotes>
 	</TypeQuotes>
 	<AgeGrowthBalances>
 	</AgeGrowthBalances>
 	<Constructibles>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" Name="LOC_BUILDING_DOME_KA_YOROBA_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_DESCRIPTION" Tooltip="LOC_BUILDING_DOME_KA_YOROBA_TOOLTIP" ConstructibleClass="BUILDING" Cost="120" Population="1" Age="AGE_ANTIQUITY"/>		
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" Name="LOC_BUILDING_YIRI_SENUMAN_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_DESCRIPTION" Tooltip="LOC_BUILDING_YIRI_SENUMAN_TOOLTIP" ConstructibleClass="BUILDING" Cost="90" Population="1" Age="AGE_ANTIQUITY"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" Name="LOC_BUILDING_DOME_KA_YOROBA_JEC_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_JEC_DESCRIPTION" Tooltip="LOC_BUILDING_DOME_KA_YOROBA_JEC_TOOLTIP" ConstructibleClass="BUILDING" Cost="120" Population="1" Age="AGE_ANTIQUITY"/>		
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" Name="LOC_BUILDING_YIRI_SENUMAN_JEC_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_JEC_DESCRIPTION" Tooltip="LOC_BUILDING_YIRI_SENUMAN_JEC_TOOLTIP" ConstructibleClass="BUILDING" Cost="90" Population="1" Age="AGE_ANTIQUITY"/>
 				
 	</Constructibles>
 	<Buildings>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" Movable="false" TraitType="TRAIT_WAGADU"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" Movable="false" TraitType="TRAIT_WAGADU"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" Movable="false" TraitType="TRAIT_WAGADU_JEC"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" Movable="false" TraitType="TRAIT_WAGADU_JEC"/>
 	</Buildings>
 	<Improvements>
 	</Improvements>
 	<Wonders>
 	</Wonders>
 	<TypeTags>
-		<Row Type="BUILDING_DOME_KA_YOROBA" Tag="DIPLOMACY"/>
-		<Row Type="BUILDING_DOME_KA_YOROBA" Tag="UNIQUE"/>
-		<Row Type="BUILDING_DOME_KA_YOROBA" Tag="AGELESS"/>
+		<Row Type="BUILDING_DOME_KA_YOROBA_JEC" Tag="DIPLOMACY"/>
+		<Row Type="BUILDING_DOME_KA_YOROBA_JEC" Tag="UNIQUE"/>
+		<Row Type="BUILDING_DOME_KA_YOROBA_JEC" Tag="AGELESS"/>
 
-		<Row Type="BUILDING_YIRI_SENUMAN" Tag="CULTURE"/>
-		<Row Type="BUILDING_YIRI_SENUMAN" Tag="UNIQUE"/>
-		<Row Type="BUILDING_YIRI_SENUMAN" Tag="AGELESS"/>
+		<Row Type="BUILDING_YIRI_SENUMAN_JEC" Tag="CULTURE"/>
+		<Row Type="BUILDING_YIRI_SENUMAN_JEC" Tag="UNIQUE"/>
+		<Row Type="BUILDING_YIRI_SENUMAN_JEC" Tag="AGELESS"/>
 	</TypeTags>
 	<Constructible_ValidDistricts>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" DistrictType="DISTRICT_CITY_CENTER"/>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" DistrictType="DISTRICT_URBAN"/>
 
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" DistrictType="DISTRICT_CITY_CENTER"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" DistrictType="DISTRICT_URBAN"/>
 	</Constructible_ValidDistricts>
 	<District_FreeConstructibles>
 	</District_FreeConstructibles>
@@ -52,23 +52,23 @@
 	<AgeConstructibleDefaultMaintenances>
 	</AgeConstructibleDefaultMaintenances>
 	<Constructible_YieldChanges>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldType="YIELD_DIPLOMACY" YieldChange="1"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldType="YIELD_HAPPINESS" YieldChange="2"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" YieldType="YIELD_DIPLOMACY" YieldChange="1"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldType="YIELD_HAPPINESS" YieldChange="2"/>
 	</Constructible_YieldChanges>
 	<Constructible_Maintenances>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldType="YIELD_GOLD" Amount="2"/>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldType="YIELD_HAPPINESS" Amount="2"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" YieldType="YIELD_GOLD" Amount="2"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" YieldType="YIELD_HAPPINESS" Amount="2"/>
 
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldType="YIELD_GOLD" Amount="2"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldType="YIELD_HAPPINESS" Amount="2"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldType="YIELD_GOLD" Amount="2"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldType="YIELD_HAPPINESS" Amount="2"/>
 	</Constructible_Maintenances>
 	<Constructible_Adjacencies>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldChangeId="DomeKaYorQuarterDiplomacy"/>
-		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA" YieldChangeId="DomeKaYorWonderDiplomacy"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="MountainCulture"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="NaturalWonderCulture"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="WonderCulture"/>
-		<Row ConstructibleType="BUILDING_YIRI_SENUMAN" YieldChangeId="YiriSenumanQuarterCulture"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" YieldChangeId="DomeKaYorQuarterDiplomacy"/>
+		<Row ConstructibleType="BUILDING_DOME_KA_YOROBA_JEC" YieldChangeId="DomeKaYorWonderDiplomacy"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldChangeId="MountainCulture"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldChangeId="NaturalWonderCulture"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldChangeId="WonderCulture"/>
+		<Row ConstructibleType="BUILDING_YIRI_SENUMAN_JEC" YieldChangeId="YiriSenumanQuarterCulture"/>
 
 		<Row ConstructibleType="BUILDING_PALACE" YieldChangeId="WagaduMazlimPalaceInfluence" RequiresActivation="true" />
 	</Constructible_Adjacencies>
@@ -93,14 +93,14 @@
 	<ConstructibleModifiers>
 	</ConstructibleModifiers>
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU" BuildingType1="BUILDING_DOME_KA_YOROBA" BuildingType2="BUILDING_YIRI_SENUMAN" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_TOOLTIP" TraitType="TRAIT_WAGADU"/>
+		<Row UniqueQuarterType="QUARTER_OUAGADOU_JEC" BuildingType1="BUILDING_DOME_KA_YOROBA_JEC" BuildingType2="BUILDING_YIRI_SENUMAN_JEC" Name="LOC_QUARTER_OUAGADOU_JEC_NAME" Description="LOC_QUARTER_OUAGADOU_JEC_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_JEC_TOOLTIP" TraitType="TRAIT_WAGADU_JEC"/>
 	</UniqueQuarters>
 	<GameModifiers>
 		<Row ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU" ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
+		<Row UniqueQuarterType="QUARTER_OUAGADOU_JEC" ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 	</Constructible_Advisories>

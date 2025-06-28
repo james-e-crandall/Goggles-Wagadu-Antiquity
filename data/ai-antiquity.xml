@@ -19,20 +19,20 @@
 	</AiListTypes>
 	<AiLists>
 		<!-- Wagadu -->
-		<Row ListType="Wagadu Unit Biases" LeaderType="TRAIT_WAGADU" System="UnitBiases"/>
-		<Row ListType="Wagadu Government Bias" LeaderType="TRAIT_WAGADU" System="GovernmentBiases"/>
-		<Row ListType="Wagadu Constructibles Biases" LeaderType="TRAIT_WAGADU" System="ConstructibleBiases" />	
-		<Row ListType="Wagadu Budget Biases" LeaderType="TRAIT_WAGADU" System="AiBudgetBiases"/>	
-		<Row ListType="Wagadu PseudoYield Biases" LeaderType="TRAIT_WAGADU" System="PseudoYieldBiases"/>	
-		<Row ListType="Wagadu Tag Biases" LeaderType="TRAIT_WAGADU" System="TagBiases"/>
+		<Row ListType="Wagadu Unit Biases" LeaderType="TRAIT_WAGADU_JEC" System="UnitBiases"/>
+		<Row ListType="Wagadu Government Bias" LeaderType="TRAIT_WAGADU_JEC" System="GovernmentBiases"/>
+		<Row ListType="Wagadu Constructibles Biases" LeaderType="TRAIT_WAGADU_JEC" System="ConstructibleBiases" />	
+		<Row ListType="Wagadu Budget Biases" LeaderType="TRAIT_WAGADU_JEC" System="AiBudgetBiases"/>	
+		<Row ListType="Wagadu PseudoYield Biases" LeaderType="TRAIT_WAGADU_JEC" System="PseudoYieldBiases"/>	
+		<Row ListType="Wagadu Tag Biases" LeaderType="TRAIT_WAGADU_JEC" System="TagBiases"/>
 	</AiLists>
 	<AiFavoredItems>
 		<!-- Wagadu -->
-		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_DOME_KA_YOROBA" Value="200" />
-		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_YIRI_SENUMAN" Value="200" />
+		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_DOME_KA_YOROBA_JEC" Value="200" />
+		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_YIRI_SENUMAN_JEC" Value="200" />
 		<Row ListType="Wagadu Constructibles Biases" Item="WONDER_LARABANGA_MOSQUE" Value="50"/>
-		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER" Value="200"/>
-		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER_2" Value="200"/>
+		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER_JEC" Value="200"/>
+		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER_JEC_2" Value="200"/>
 	</AiFavoredItems>
 	<!-- City Strategies -->
 	<Strategies>

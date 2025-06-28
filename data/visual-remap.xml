@@ -2,17 +2,17 @@
 <Database>
     <VisualRemaps>
         <Row>
-            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER</ID>
-            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_NAME</DisplayName>
+            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER_JEC</ID>
+            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_TRANS_SAHARAN_TRADER</From>
+            <From>UNIT_TRANS_SAHARAN_TRADER_JEC</From>
             <To>UNIT_MERCHANT</To>
         </Row>
         <Row>
-            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER_2</ID>
-            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_NAME</DisplayName>
+            <ID>REMAP_UNIT_TRANS_SAHARAN_TRADER_JEC_2</ID>
+            <DisplayName>LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_TRANS_SAHARAN_TRADER_2</From>
+            <From>UNIT_TRANS_SAHARAN_TRADER_JEC_2</From>
             <To>UNIT_MERCHANT</To>
         </Row>
     </VisualRemaps>

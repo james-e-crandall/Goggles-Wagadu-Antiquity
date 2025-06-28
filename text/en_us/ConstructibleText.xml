@@ -3,35 +3,35 @@
 	<EnglishText>
 		<!-- BUILDING -->
 		<!-- DOME_COMPLEX -->
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_NAME">
+		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_NAME">
 			<Text>Dome Ka Yoroba</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_DESCRIPTION">
 			<Text>+1[icon:YIELD_DIPLOMACY] Influence. +1[icon:YIELD_DIPLOMACY] Influence Adjacency for Quarters and Wonders. Wagadu Unique Influence Building. Ageless.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_TOOLTIP">
+		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_TOOLTIP">
 			<Text>Wagadu Unique Influence Building. Ageless.</Text>
 		</Row>
 		<!-- SACRED_GROVE -->
-		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_NAME">
+		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_JEC_NAME">
 			<Text>Yiri Senuman</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_JEC_DESCRIPTION">
 			<Text>+3[icon:YIELD_HAPPINESS] Happiness. +1[icon:YIELD_CULTURE] Culture adjacency for Wonders. Wagadu Unique Happiness Building. Ageless.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_TOOLTIP">
+		<Row Tag="LOC_BUILDING_YIRI_SENUMAN_JEC_TOOLTIP">
 			<Text>Wagadu Unique Happiness Building. Adds Happiness to adjacent Quarters. Ageless.</Text>
 		</Row>
 		<!-- QUARTER -->
 		<!-- OUAGADOU -->
-		<Row Tag="LOC_QUARTER_OUAGADOU_NAME">
+		<Row Tag="LOC_QUARTER_OUAGADOU_JEC_NAME">
 			<Text>Ouagadou (place of the Wague)</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
-		<Row Tag="LOC_QUARTER_OUAGADOU_DESCRIPTION">
+		<Row Tag="LOC_QUARTER_OUAGADOU_JEC_DESCRIPTION">
 			<Text>Wagadu Unique Quarter. Created by constructing the Dome Ka Yoroba and Yiri Senuman in the same District. +2 Resource Capacity this city.</Text>
 		</Row>
-		<Row Tag="LOC_QUARTER_OUAGADOU_TOOLTIP">
+		<Row Tag="LOC_QUARTER_OUAGADOU_JEC_TOOLTIP">
 			<Text>+1[icon:YIELD_GOLD] Gold on trade routes from this city.</Text>
 		</Row>
 

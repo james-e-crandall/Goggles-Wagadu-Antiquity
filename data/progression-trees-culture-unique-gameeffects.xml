@@ -4,18 +4,18 @@
 	<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
 
 	<!-- NODE_CIVIC_AQ_WAGADU_DINAR -->
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_NUM_TRADE_ROUTES">
+	<Modifier id="MOD_JEC_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_NUM_TRADE_ROUTES">
 		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
 		<Argument name="Amount">3</Argument>
 		<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME</Argument>
-		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES_DESCRIPTION</String>
+		<String context="Description">LOC_MOD_JEC_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES_DESCRIPTION</String>
 	</Modifier>
 
 	<!-- NODE_CIVIC_AQ_WAGADU_GHANA -->
 
 
 	<!-- NODE_CIVIC_AQ_WAGADU_KAFU -->
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_CULTURE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
+	<Modifier id="MOD_JEC_KAFU_MOD_CULTURE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
 		<Argument name="FromYieldType">YIELD_GOLD</Argument>
 		<Argument name="ToYieldType">YIELD_CULTURE</Argument>
 		<Argument name="Percent">25</Argument>
@@ -23,7 +23,7 @@
 		<String context="Description">LOC_NODE_CIVIC_AQ_WAGADU_KAFU_CULTURE_TRADE_DESCRIPTION</String>
 	</Modifier>
 	
-	<Modifier id="NODE_CIVIC_AQ_WAGADU_KAFU_MOD_SCIENCE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
+	<Modifier id="MOD_JEC_WAGADU_KAFU_MOD_SCIENCE_TRADE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
 		<Argument name="FromYieldType">YIELD_GOLD</Argument>
 		<Argument name="ToYieldType">YIELD_SCIENCE</Argument>
 		<Argument name="Percent">25</Argument>

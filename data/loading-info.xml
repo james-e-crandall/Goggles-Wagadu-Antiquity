@@ -4,7 +4,7 @@
 
 	</LoadingInfo_Ages>
 	<LoadingInfo_Civilizations>
-		<Row CivilizationType="CIVILIZATION_WAGADU" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_WAGADU" Audio="VO_Loading_WAGADU" Subtitle="LOC_LOADING_INTRO_WAGADU" BackgroundImageHigh="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080" BackgroundImageLow="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720" ForegroundImage="fs://game/goggles_civ_wagadu/civ_line_wagadu.png" />
+		<Row CivilizationType="CIVILIZATION_WAGADU_JEC" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_WAGADU" Audio="VO_Loading_WAGADU" Subtitle="LOC_LOADING_INTRO_WAGADU" BackgroundImageHigh="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080" BackgroundImageLow="fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720" ForegroundImage="fs://game/goggles_civ_wagadu/civ_line_wagadu.png" Tip="LOC_LOADING_CIV_TIPS_TEXT_WAGADU" />
 	</LoadingInfo_Civilizations>
 
 </Database>

@@ -15,25 +15,25 @@
 
 	</LeaderCivilizationBias>
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" CivilizationName="LOC_CIVILIZATION_WAGADU_NAME" CivilizationFullName="LOC_CIVILIZATION_WAGADU_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_WAGADU_DESCRIPTION" CivilizationIcon="civ_sym_wagadu.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" CivilizationName="LOC_CIVILIZATION_WAGADU_JEC_NAME" CivilizationFullName="LOC_CIVILIZATION_WAGADU_JEC_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_WAGADU_JEC_DESCRIPTION" CivilizationIcon="civ_sym_wagadu_jec.png"/>
 	</Civilizations>
 	<CivilizationItems>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="TRAIT_WAGADU_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_WAGADU_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_ABILITY_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="UNIT_TRANS_SAHARAN_TRADER" Kind="KIND_UNIT" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_DESCRIPTION" Icon="ICON_UNIT_TRANS_SAHARAN_TRADER"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_DOME_KA_YOROBA" Kind="KIND_BUILDING" Name="LOC_BUILDING_DOME_KA_YOROBA_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_DESCRIPTION" Icon="ICON_BUILDING_DOME_KA_YOROBA"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="BUILDING_YIRI_SENUMAN" Kind="KIND_BUILDING" Name="LOC_BUILDING_YIRI_SENUMAN_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_DESCRIPTION" Icon="ICON_BUILDING_YIRI_SENUMAN"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" Type="QUARTER_OUAGADOU" Kind="KIND_QUARTER" Name="LOC_QUARTER_OUAGADOU_NAME" Description="LOC_QUARTER_OUAGADOU_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" Type="TRAIT_WAGADU_JEC_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_WAGADU_JEC_ABILITY_NAME" Description="LOC_TRAIT_WAGADU_JEC_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" Type="UNIT_TRANS_SAHARAN_TRADER_JEC" Kind="KIND_UNIT" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" Icon="ICON_UNIT_TRANS_SAHARAN_TRADER_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" Type="BUILDING_DOME_KA_YOROBA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_DOME_KA_YOROBA_JEC_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_JEC_DESCRIPTION" Icon="ICON_BUILDING_DOME_KA_YOROBA_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" Type="BUILDING_YIRI_SENUMAN_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_YIRI_SENUMAN_JEC_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_JEC_DESCRIPTION" Icon="ICON_BUILDING_YIRI_SENUMAN_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" Type="QUARTER_OUAGADOU_JEC" Kind="KIND_QUARTER" Name="LOC_QUARTER_OUAGADOU_JEC_NAME" Description="LOC_QUARTER_OUAGADOU_JEC_DESCRIPTION" Icon="city_uniquequarter"/>
 	
 	</CivilizationItems>
 	<CivilizationTags>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" TagType="TAG_TRAIT_CULTURAL"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" TagType="TAG_TRAIT_POLITICAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" TagType="TAG_TRAIT_POLITICAL"/>
 	</CivilizationTags>
 	<LeaderCivilizationBias>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_AMINA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_HARRIET_TUBMAN" Bias="4" ReasonType="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_IBN_BATTUTA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU" LeaderDomain="StandardLeaders" LeaderType="LEADER_XERXES_ALT" Bias="3" ReasonType="LOC_UNLOCK_PLAY_AS_XERXES_ALT_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_AMINA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_AMINA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_HARRIET_TUBMAN" Bias="4" ReasonType="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_IBN_BATTUTA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_WAGADU_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_XERXES_ALT" Bias="3" ReasonType="LOC_UNLOCK_PLAY_AS_XERXES_ALT_WAGADU_TOOLTIP" ChoiceType="LOC_CREATE_GAME_STRATEGIC_CHOICE" />
 	
 	</LeaderCivilizationBias>
 	<CivilizationUnlocks>

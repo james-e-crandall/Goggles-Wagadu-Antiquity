@@ -3,10 +3,10 @@
 	<EnglishText>
 		<!-- Unit Abilities -->
 		<!-- Greece Unique Units -->
-		<Row Tag="LOC_UNIT_TRANS_SAHARAN_TRADER_NAME">
+		<Row Tag="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME">
 			<Text>Trans-Saharan Trader</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_TRANS_SAHARAN_TRADER_DESCRIPTION">
+		<Row Tag="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION">
 			<Text>Wagadu Unique Merchant. Ignores movement penalties from Vegetated Terrain.</Text>
 		</Row>
 	</EnglishText>
