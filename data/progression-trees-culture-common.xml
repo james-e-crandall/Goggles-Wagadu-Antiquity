@@ -11,7 +11,7 @@
 	<ProgressionTreeNodes>
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_REVEAL_CIV_CULTURE_TREE_WAGADU" UnlockDepth="1" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CHIEFDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_REVEAL_CIV_CULTURE_TREE_WAGADU_JEC" UnlockDepth="1" Hidden="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_MAIN_CODE_OF_LAWS" TargetKind="KIND_UNIT" TargetType="UNIT_TRANS_SAHARAN_TRADER_JEC_2" UnlockDepth="1"  RequiredTraitType="TRAIT_WAGADU_JEC"/>
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>

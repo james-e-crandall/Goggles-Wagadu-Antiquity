@@ -2,7 +2,7 @@
 <Database>
 	<Types>
 		<!-- tree -->
-		<Row Type="TREE_CIVICS_AQ_WAGADU" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_AQ_WAGADU_JEC" Kind="KIND_TREE"/>
 		<!-- nodes -->
 		<Row Type="NODE_CIVIC_AQ_WAGADU_GHANA" Kind="KIND_TREE_NODE"/>
 		<Row Type="NODE_CIVIC_AQ_WAGADU_BAMBOUK" Kind="KIND_TREE_NODE"/>
@@ -18,14 +18,14 @@
 		<Row Type="NODE_CIVIC_AQ_WAGADU_KAFU" Quote="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Kafu" />
 	</TypeQuotes>
 	<ProgressionTrees>
-		<Row ProgressionTreeType="TREE_CIVICS_AQ_WAGADU" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_AQ_WAGADU_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_AQ_WAGADU_JEC" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_AQ_WAGADU_JEC_NAME"/>
 	</ProgressionTrees>
 	<ProgressionTreeNodes>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME" IconString="cult_wagadu_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_BAMBOUK" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_NAME" IconString="cult_wagadu_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME" IconString="cult_wagadu_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME" IconString="cult_wagadu_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" ProgressionTree="TREE_CIVICS_AQ_WAGADU" Cost="400" Name="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME" IconString="cult_wagadu_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_GHANA" ProgressionTree="TREE_CIVICS_AQ_WAGADU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_GHANA_NAME" IconString="cult_wagadu_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_BAMBOUK" ProgressionTree="TREE_CIVICS_AQ_WAGADU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_WAGADU_BAMBOUK_NAME" IconString="cult_wagadu_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH" ProgressionTree="TREE_CIVICS_AQ_WAGADU_JEC" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_KWAME_NKRUMAH_NAME" IconString="cult_wagadu_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_DINAR" ProgressionTree="TREE_CIVICS_AQ_WAGADU_JEC" Cost="250" Name="LOC_NODE_CIVIC_AQ_WAGADU_DINAR_NAME" IconString="cult_wagadu_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_WAGADU_KAFU" ProgressionTree="TREE_CIVICS_AQ_WAGADU_JEC" Cost="400" Name="LOC_NODE_CIVIC_AQ_WAGADU_KAFU_NAME" IconString="cult_wagadu_jec" />
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
 		<!-- NODE_CIVIC_AQ_WAGADU_BAMBOUK -->
